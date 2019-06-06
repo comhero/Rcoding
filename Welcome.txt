@@ -1,0 +1,7 @@
+#
+# Welcome message
+# 안녕하세요.
+# 선문대학교 SW중심대학 가치확산센터 강희국 교수입니다.
+#
+# E-mail: comhero@daum.net
+#
